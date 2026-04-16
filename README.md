@@ -1,7 +1,7 @@
 # 💻 Portfólio - Renan Rodrigues
 
 🔗 Acesse o projeto:  
-https://portifolio-hz8ghlire-re-rodrigues-projects.vercel.app
+https://portifolio-hz8ghlire-re-rodrigues-projects.vercel.app?_vercel_share=vu2J7Qd5w13uvM3d4LvkmdIZJBvzS8Sm
 
 ---
 
